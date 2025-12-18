@@ -43,3 +43,18 @@ Repoyu klonlayın veya zip olarak indirip klasöre çıkartın.
 **Önemli:** Klasör yapısının şu şekilde olduğundan emin olun:
 * `gui_app.py` (Ana uygulama kodu)
 * `best.pt` (Eğitilmiş YOLO modeli - Bu dosya kod ile aynı dizinde olmalıdır)
+
+### 3. Uygulamayı Başlatın
+Terminali açın, proje klasörünün içine girin ve uygulamayı çalıştırın:
+
+```bash
+cd proje_klasorunuz
+python gui_app.py
+```
+Mac Kullanıcıları İçin Not: Eğer python komutu hata verirse lütfen şu şekilde deneyin: python3 gui_app.py
+
+##  Kullanım
+Uygulama açıldığında karşınıza **"Resim Seç"** ve **"Video Seç"** butonları gelecektir.
+
+1.  **Resim Testi İçin:** "Resim Seç" butonuna basın, galeriden bir fotoğraf seçin. Sonuç anında ekranda belirecektir.
+2.  **Video Testi İçin:** "Video Seç" butonuna basın, bir video dosyası yükleyin. Uygulama videoyu oynatmaya başlayacak ve nesneleri tespit ettikçe üzerlerini çizecektir.
