@@ -6,7 +6,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=for-the-badge&logo=opencv)
 
 ## 📖 Proje Hakkında
-Bu proje, **YOLOv8 (You Only Look Once)** derin öğrenme modelini kullanıcı dostu bir arayüzle buluşturan gelişmiş bir masaüstü uygulamasıdır.
+Bu proje, **YOLOv8 ** derin öğrenme modelini kullanıcı dostu bir arayüzle buluşturan gelişmiş bir masaüstü uygulamasıdır.
 
 Kullanıcılar, Python ve PyQt5 ile geliştirilen bu arayüz üzerinden hem **fotoğraf** hem de **video** dosyaları üzerinde yüksek doğrulukla nesne tespiti yapabilirler. Proje, karmaşık kod yapılarıyla uğraşmadan, eğitilmiş bir yapay zeka modelini günlük hayatta kullanılabilir hale getirmeyi amaçlar.
 
