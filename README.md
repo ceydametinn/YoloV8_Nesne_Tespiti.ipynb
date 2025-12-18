@@ -34,7 +34,8 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 Terminal veya Komut İstemi'ni (CMD) açarak gerekli kütüphaneleri yükleyin:
 ```bash
 pip install ultralytics PyQt5 opencv-python
-
+```
+(Mac kullanıcıları için pip3 kullanılabilir.)
 
 ### 2. Projeyi İndirin
 Repoyu klonlayın veya zip olarak indirip klasöre çıkartın.
