@@ -35,3 +35,22 @@ Terminal veya Komut İstemi'ni (CMD) açarak gerekli kütüphaneleri yükleyin:
 ```bash
 pip install ultralytics PyQt5 opencv-python
 (Mac kullanıcıları için pip3 kullanılabilir.)
+### 2. Projeyi İndirin
+Repoyu klonlayın veya zip olarak indirip klasöre çıkartın. Önemli: Klasör yapısının şu şekilde olduğundan emin olun:
+
+gui_app.py (Ana uygulama kodu)
+
+best.pt (Eğitilmiş YOLO modeli - Bu dosya kod ile aynı dizinde olmalıdır)
+
+3. Uygulamayı Başlatın
+Terminali açın, proje klasörünün içine girin ve uygulamayı çalıştırın:
+
+Bash
+
+cd proje_klasorunuz
+python gui_app.py
+Mac Kullanıcıları İçin Not: Eğer python komutu hata verirse lütfen şu şekilde deneyin:
+
+Bash
+
+python3 gui_app.py
