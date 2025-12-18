@@ -6,7 +6,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?style=for-the-badge&logo=opencv)
 
 ## 📖 Proje Hakkında
-Bu proje, **YOLOv8 ** derin öğrenme modelini kullanıcı dostu bir arayüzle buluşturan gelişmiş bir masaüstü uygulamasıdır.
+Bu proje, YOLOv8  derin öğrenme modelini kullanıcı dostu bir arayüzle buluşturan gelişmiş bir masaüstü uygulamasıdır.
 
 Kullanıcılar, Python ve PyQt5 ile geliştirilen bu arayüz üzerinden hem **fotoğraf** hem de **video** dosyaları üzerinde yüksek doğrulukla nesne tespiti yapabilirler. Proje, karmaşık kod yapılarıyla uğraşmadan, eğitilmiş bir yapay zeka modelini günlük hayatta kullanılabilir hale getirmeyi amaçlar.
 
@@ -20,7 +20,7 @@ Uygulama, kullanıcılara esnek test imkanları sunmaktadır:
 * **Galeriden Seçim:** Bilgisayarınızdaki klasörlerden `.jpg`, `.png`, `.jpeg` formatındaki görselleri kolayca yükleyebilirsiniz.
 * **Anlık Analiz:** Seçilen fotoğraf saniyeler içinde analiz edilir ve tespit edilen nesneler kutucuklar (Bounding Box) ile işaretlenir.
 
-### 🎥 2. Video ile Tespit (Yeni!)
+### 🎥 2. Video ile Tespit 
 * **Video Desteği:** Galerinizdeki `.mp4`, `.avi` formatındaki video dosyalarını yükleyerek hareketli görüntüler üzerinde test yapabilirsiniz.
 * **Kare Kare Analiz:** Uygulama, videoyu kare kare (frame by frame) işleyerek nesneleri takip eder ve sonuçları gerçek zamanlı olarak ekrana yansıtır.
 
